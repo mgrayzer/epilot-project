@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+raw_data_source/entsoe_generation_unit.csv.gz
 # C extensions
 *.so
 
