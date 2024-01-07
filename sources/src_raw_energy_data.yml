@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw_data
+    database: epilot
+    schema: raw
+    tables:
+      - name: entsoe_generation_unit_raw
