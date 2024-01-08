@@ -1,5 +1,5 @@
 SELECT
-datetime_utc AS timestamp_energy_generation, 
+datetime_utc::timestamp AS timestamp_energy_generation, 
 price_area,
 country_code,
 EIC_code,
