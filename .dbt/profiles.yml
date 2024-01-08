@@ -1,0 +1,13 @@
+dbt_learnings:
+  outputs:
+    dev:
+      account: ff77862.eu-central-1
+      database: EPILOT
+      password: Energy_pass_2024!
+      role: ACCOUNTADMIN
+      schema: PUBLIC
+      threads: 3
+      type: snowflake
+      user: EPILOT_USER
+      warehouse: COMPUTE_WH
+  target: dev
