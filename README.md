@@ -11,6 +11,7 @@ The dataset from the ENTSO-E Transparency Platform can be viewed [here](https://
 - [Python-requirements](#Python-requirements)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Analysis](#Analysis)
 
 ## Features
 
@@ -71,6 +72,12 @@ After completing the installation steps and downloading the required components,
 
 4. Follow any additional prompts or instructions as required during the analysis process.
 
+## Analysis
+Data visualization of the anlytics tables can be found [here](https://lookerstudio.google.com/reporting/faa669ab-6a28-4d23-999b-508b4bedda4d). These are interactive charts done in Google's Looker Studio.
+
+A test account was created in Snowflake to facilitate the ELT process and subsequest Anpysis in Google Looker Studio. 
+The link to access the platfor can be done [here](https://ff77862.eu-central-1.snowflakecomputing.com/) User name and
+password will be provided in tbe email that will be forwarded. 
 
 
 ## Contact
