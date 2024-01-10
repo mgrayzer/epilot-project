@@ -9,3 +9,4 @@ execute_analysis:
 	snowsql -a ff77862.eu-central-1 -u EPILOT_USER -d epilot -s raw -f DDL/uploadraw.sql
 	echo executing transformations
 	dbt run
+	
