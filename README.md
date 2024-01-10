@@ -75,7 +75,7 @@ After completing the installation steps and downloading the required components,
 ## Analysis
 Data visualization of the anlytics tables can be found [here](https://lookerstudio.google.com/reporting/faa669ab-6a28-4d23-999b-508b4bedda4d). These are interactive charts done in Google's Looker Studio.
 
-A test account was created in Snowflake to facilitate the ELT process and subsequest Anpysis in Google Looker Studio. 
+A test account was created in Snowflake to facilitate the ELT process and subsequest Analysis in Google Looker Studio. 
 The link to access the platfor can be done [here](https://ff77862.eu-central-1.snowflakecomputing.com/) User name and
 password will be provided in tbe email that will be forwarded. 
 
